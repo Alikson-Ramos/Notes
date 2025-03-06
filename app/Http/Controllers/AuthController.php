@@ -25,7 +25,6 @@ class AuthController extends Controller
                 'text_password.required' => 'O password é obrigatório',
                 'text_password.min' => 'O password deve ter pelo menos :min caracteres',
                 'text_password.max' => 'O password deve ter pelo menos :max caracteres'
-
             ]
         );
 
